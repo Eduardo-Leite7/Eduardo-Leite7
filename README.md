@@ -101,4 +101,5 @@ Estou sempre em busca de evolução constante e de oportunidades para crescer co
 - 🗄️ Banco de Dados: SQL  
 - 📊 Dados: Power BI | Excel | Word  
 - 🎨 Design: Adobe After Effects | Illustrator | Premiere Pro
+- 🌎 Inglês: Avançado
 - 📕 Estudando: Certificações ANBIMA (CPA, CPRO-I e CPRO-R)
