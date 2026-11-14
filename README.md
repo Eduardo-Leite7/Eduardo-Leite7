@@ -6,14 +6,16 @@
 
 `💻 Apaixonado por tecnologia, dados e soluções digitais` 
 
-**`📊 Experiência com operações financeiras e análise de dados`** 
+**`📊 Experiência artes 3D e análise de dados`**
+
+**`🎯 Objetivo de carreira: Game Developer`**
 
 
 ## 🚀 Sobre mim
 
-Me chamo Eduardo Leite Ribeiro, sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse em tecnologia e no mercado financeiro.
+Me chamo Eduardo Leite Ribeiro, sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse em tecnologia e no mercado de jogos.
 
-Tenho experiência com operações financeiras e análise de dados, o que me proporcionou uma visão prática de como a tecnologia pode otimizar processos e apoiar decisões.
+Tenho experiência com criação de arte 3D, análise de dados e criação de sistemas, o que me proporcionou uma visão prática de como a tecnologia funciona no mundo dos Games.
 
 Atualmente, venho me aprofundando em programação com foco em Java, Python e desenvolvimento web (HTML, CSS e JavaScript), além de explorar projetos práticos, como um RPG textual em Java voltado ao ensino de banco de dados.
 
@@ -119,8 +121,8 @@ Estou sempre em busca de evolução constante e de oportunidades para crescer co
 
 ## 🛠️ Ferramentas
   
-- 🗄️ Banco de Dados: SQL  
+- 🗄️ Banco de Dados: SQL | MongoDB | Postgre 
 - 📊 Dados: Power BI | Excel | Word  
-- 🎨 Design: Adobe After Effects | Illustrator | Premiere Pro
+- 🎨 Design: Adobe After Effects | Illustrator | Premiere Pro | CapCut | Blender3D | AdobeSubstance | Zbrush
 - 🌎 Inglês: Avançado
-- 📕 Estudando: Certificações ANBIMA (CPA, CPRO-I e CPRO-R)
+- 📕 Estudando: Automações, SpringBoot e Programação para jogos
